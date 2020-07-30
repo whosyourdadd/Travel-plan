@@ -1,6 +1,6 @@
-# math-hundred-japan-tour
-record for everything
+# tour plan
+record for some travel plan
 
 ## Date
-- 1/28 仙台機場
-- 2/1   東京的機場
+- 7/30 Yilan 
+
